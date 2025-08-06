@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/7fM7qgYc"))()
+https://rekonise.com/freeze-trade-script-x0c1n
